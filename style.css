@@ -1,16 +1,16 @@
-﻿@media screen and (width: 30em) {
+﻿@media screen and (width: 40em) {
     body {
         font-size:25px;
         background-color: #c4a7e7;
     }
 }
-@media screen and (width: 40em) {
+@media screen and (width: 50em) {
     body {
         font-size:30px;
         background-color: #f2e9de;
     }
 }
-@media screen and (width: 50em) {
+@media screen and (width: 60em) {
     body {
         font-size:35px;
         background-color: #ea9d34;
